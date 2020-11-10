@@ -1,4 +1,4 @@
-# So Pekocko - Sauces project #
+# So Pekocko Project #
 
 ## Context ##
 The aim of this project is to create the Backend for the So Pecocko website.
@@ -14,4 +14,5 @@ You will need to have **Node** and `npm` installed locally on your machine.
 
 ## installation ##
 First step is to **clone this repo**.
-The follow the steps on the README files present in the backend and frontend folders
+
+Then, follow the steps on the README files present in the backend and frontend folders
