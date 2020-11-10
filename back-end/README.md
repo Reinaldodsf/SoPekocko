@@ -4,16 +4,16 @@
 Run `npm install`.
 
 Intall all the below Package with `npm install`:
--`http`
--`express`
--`body-parser`
--`mongoose`
--`path`
--`mongoose-unique-validator`
--`multer`
--`jsonwebtoken`
--`bcrypt`
--`fs`
+- `http`
+- `express`
+- `body-parser`
+- `mongoose`
+- `path`
+- `mongoose-unique-validator`
+- `multer`
+- `jsonwebtoken`
+- `bcrypt`
+- `fs`
 
 ## Usage ##
 Initiallize the Project with `npm init`
