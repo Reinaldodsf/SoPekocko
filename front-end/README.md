@@ -1,7 +1,7 @@
 # SoPokocko - Frontend #
 
 ## Installation ##
-Run `npm install`.
+Within the **Front-end folder** (`cd Front-end`) run `npm install`.
 
 ## Usage ##
 Run `npm start`. This should both run the local server and launch your browser.

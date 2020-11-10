@@ -1,7 +1,7 @@
 # SoPokocko - Backend #
 
 ## installation ##
-Run `npm install`.
+Within the **Back-end folder** (`cd Back-end`) run `npm install`.
 
 Intall all the below Package with `npm install`:
 - `http`
@@ -16,8 +16,6 @@ Intall all the below Package with `npm install`:
 - `fs`
 
 ## Usage ##
-Initiallize the Project with `npm init`
-
-Start the server with `node server` or `nodemon server`, in the command promp you should receive the final message "Successfully connected to MongoDB Atlas!"
+Start the server with `node server` or `nodemon server`, in the command promp you should receive the final message *"Successfully connected to MongoDB Atlas!"*
 
 Use `Ctrl+C` in the terminal to stop the connection to the server.
